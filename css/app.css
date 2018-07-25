@@ -183,3 +183,59 @@ body {
 
 
 /***** PAGE SEARCH *****/
+
+/***** PAGE NOTIFICATION *****/
+
+/* category */
+.category .content {
+  margin-bottom: 20px;
+}
+.category .top-tittle p {
+  background-color: rgb(177, 157, 214);
+  border-radius: 10px;
+  padding-left: 10px;
+  font-size: 24px;
+}
+
+/* category */
+
+/* messages */
+
+.messages .box {
+  background-color: rgb(177, 157, 214);
+  border-radius: 10px;
+  padding-left: 10px;
+  height: 300px;
+  background-image: url(../img/no-message.svg);
+  background-repeat: no-repeat;
+  background-size: 150px;
+  background-position: center;
+}
+.messages .box p {
+  margin-top: 200px;
+  font-size: 24px;
+}
+.messages .content {
+  margin-top: 10px;
+}
+/* messages */
+
+
+/***** PAGE NOTIFICATION *****/
+
+/***** PAGE PROFILE *****/
+.card-profile .card {
+  height: 350px;
+}
+.card-img-top {
+  border-top-left-radius: 40px;
+  border-top-right-radius: 40px;
+  height: 150px;
+}
+.messages .border-box {
+  background-color: rgb(177, 157, 214);
+  border-radius: 10px;
+  height: 300px;
+}
+
+/***** PAGE PROFILE *****/
