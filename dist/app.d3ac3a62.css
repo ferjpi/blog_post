@@ -9,7 +9,7 @@ body {
 }
 
 .wrapper {
-  background-image: url(../img/blog.png);
+  background-image: url(blog.dc63b578.png);
   height: 100vh;
   background-repeat: no-repeat;
   background-size: cover;
@@ -230,7 +230,7 @@ body {
   border-radius: 10px;
   padding-left: 10px;
   height: 300px;
-  background-image: url(../img/no-message.svg);
+  background-image: url(no-message.2da22387.svg);
   background-repeat: no-repeat;
   background-size: 150px;
   background-position: center;
